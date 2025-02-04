@@ -1,0 +1,80 @@
+{
+  "tabs.business": "Career",
+  "tabs.creative": "Personal",
+  "tabs.welcome": "Welcome to my creative world",
+  "button.toggleMode.simple": "Switch to Simple Mode",
+  "button.toggleMode.creative": "Switch to Creative Mode",
+  "button.aboutMe": "About me",
+  "hero.title": "Explore the world of innovation with me",
+  "hero.subtitle": "Passionate software developer pushing the boundaries of what’s possible",
+  "hero.description": "Welcome to my personal website! I’m Tobi, a software developer with a deep passion for technology and creative problem-solving. Dive into my universe of code, where every project tells a story of challenge and success.",
+  "codeUniverse.title": "My Code Universe",
+  "projectsIntro.title": "My Projects",
+  "projectsIntro.description": "Here you’ll find a selection of my digital projects, born from my passion for innovation and precise execution. Explore and discover the diversity of my work – from web applications to software solutions and creative experiments. Each project tells its own story and reflects my drive for excellence and innovation. Enjoy exploring!",
+  "animatedKeywords.title": "Let's create something great",
+  "animatedKeywords.highlight": "Create",
+  "largeProjects.title": "Large Projects",
+  "largeProjects.project1.title": "MarketMaven",
+  "largeProjects.project1.description": "An innovative platform for modern trading and financial analysis.",
+  "largeProjects.project2.title": "Clikce",
+  "largeProjects.project2.description": "Social media management platform: My final school project.",
+  "button.learnMore": "Learn more",
+
+  "expertise.title": "My expertise for your ambitious goals",
+  "expertise.python.title": "Python",
+  "expertise.python.description": "During my school years, I deepened my knowledge of Python and specialized in two key areas:\n\nGraphical programming with PyQt: By developing intuitive and visually appealing user interfaces, I enhanced my ability to combine technical functionality with engaging design.\n\nData analysis with Pandas: Working with large datasets and efficiently analyzing them has enabled me to make data-driven decisions – an essential skill in today’s technology-driven world.\n\nAdditionally, I independently expanded my knowledge of web development by learning Flask, a powerful micro web framework for Python. This allowed me to develop flexible and efficient backends for my web projects.",
+
+  "expertise.business.title": "Business Administration",
+  "expertise.business.description": "During my studies in Business Informatics, I focused extensively on core areas of business administration, particularly financial accounting and logistics. This education gave me a comprehensive understanding of essential business processes.\n\nFinancial Accounting: I gained in-depth knowledge of financial accounting, including recording and analyzing business transactions, creating balance sheets and profit and loss statements, and applying accounting standards.\n\nLogistics Processes: In logistics, I learned about various business processes, such as manufacturing workflows, material management, and employee procurement.",
+
+  "expertise.ai.title": "Artificial Intelligence",
+  "expertise.ai.description": "During my school education, I explored the fascinating world of artificial intelligence, particularly neural networks. I learned both basic and advanced principles of their structure and application, including architecture and programming with TensorFlow.\n\nThrough practical projects, I gained experience in applying these technologies to various tasks such as classification, regression, and image and pattern recognition. These projects helped me develop a deeper understanding of the opportunities and challenges of AI while honing my practical skills in working with advanced technologies.",
+
+  "expertise.sql.title": "SQL / Databases",
+  "expertise.sql.description": "During my school years, I acquired extensive knowledge in the field of databases and SQL. I studied both fundamental and advanced techniques in database design, implementation, maintenance, and query optimization.\n\nThese skills enabled me to design powerful database solutions that meet high integrity requirements while ensuring efficient query performance.",
+
+  "expertise.html.title": "HTML / CSS",
+  "expertise.html.description": "My interest in self-improvement led me to learn HTML and CSS – the foundations of web development. By completing several courses, I gained a solid understanding of these technologies, allowing me to create structured and visually appealing websites.\n\nI use HTML to build the fundamental structure of any website, while CSS provides layout and visual styling, ensuring that my projects have a professional look and an intuitive user interface.",
+
+  "expertise.javascript.title": "JavaScript",
+  "expertise.javascript.description": "Beyond my formal education, I independently delved into the world of JavaScript to enhance my web development skills. Through various courses, I acquired extensive knowledge of JavaScript, enabling me to create interactive and dynamic web applications.\n\nI learned to use JavaScript to design interactive user interfaces, implement client-side logic, and interact with web APIs, ensuring responsive and user-friendly websites.",
+
+  "expertise.php.title": "PHP / Symfony",
+  "expertise.php.description": "At my first employer, I worked extensively with PHP, particularly with the Symfony framework. I developed scalable and maintainable web applications that met both modern software architecture requirements and high-performance standards.",
+
+  "smallProjects.title": "Small Projects",
+
+  "smallProjects.project1.title": "AI for Brain Tumor Detection",
+  "smallProjects.project1.subtitle": "Precise analysis of CT scans",
+  "smallProjects.project1.description": "This project utilizes artificial intelligence to detect the presence of a brain tumor in CT scans. Developed in Python with TensorFlow, it was trained on a dataset of over 2,000 brain scans. With a classification accuracy of 96%, it offers reliable support for medical diagnoses.",
+
+  "smallProjects.project2.title": "Smart Heating Control",
+  "smallProjects.project2.subtitle": "Efficient control via desktop app",
+  "smallProjects.project2.description": "This application enables the control and monitoring of a heating system through a graphical user interface. Developed with Python and PyQt5, it provides an intuitive interface for adjusting temperature, heating modes, and schedules. The modular structure ensures a flexible and expandable architecture.",
+
+  "smallProjects.project3.title": "Bitcoin Trading Bot",
+  "smallProjects.project3.subtitle": "Automated trades using moving averages",
+  "smallProjects.project3.description": "This Python-based system analyzes Bitcoin price data in 5-minute intervals and executes automated buy and sell orders on an exchange. It uses moving averages (SMA 50 & SMA 200) to make trading decisions and communicates with the exchange via API keys. Pandas is used for market trend analysis, while Matplotlib visualizes price movements. This project demonstrates data-driven trading and automation in the crypto market.",
+
+
+  "hobbys.title": "My Hobbies",
+  "hobbys.hobby1.title": "3D Modeling & 3D Printing",
+  "hobbys.hobby1.description": "The combination of digital design and physical creation fascinates me. In 3D modeling, I design intricate models that I bring to life using my 3D printer. This allows me to create unique miniatures and functional objects.",
+
+  "hobbys.hobby2.title": "Miniature & Figure Painting",
+  "hobbys.hobby2.description": "Painting miniatures requires precision and patience. I love bringing models to life through colors and details. It’s a creative way to express my imagination and refine my craftsmanship.",
+
+  "hobbys.hobby3.title": "Fitness & Sports",
+  "hobbys.hobby3.description": "Regular exercise is not just a physical challenge for me but also a mental balance. Whether it's strength training or endurance workouts, fitness helps me push my limits and develop discipline.",
+
+  "hobbys.hobby4.title": "Painting & Drawing",
+  "hobbys.hobby4.description": "With a pencil or brush, I bring my creative ideas to paper. Painting and drawing allow me to express emotions visually and explore new artistic techniques.",
+
+
+  "creativeTab.text1": "Dive into my interactive 3D world, where you can learn more about my creative projects and passions.",
+  "creativeTab.text2": "Click on the elements on my desk to discover exciting content. Each object tells a unique story about my work, my interests, and my creative journey.",
+  "creativeTab.text3": "Have fun exploring, and don't hesitate to pay attention to every detail!"
+
+
+
+}

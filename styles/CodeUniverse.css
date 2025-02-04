@@ -1,0 +1,35 @@
+/* Styling für die Icon-Container */
+.code-icon-container {
+  width: 120px;
+  height: 120px;
+
+  background: linear-gradient(90deg, #2b2b2b 20%, #121212 60%); /* Grauverlauf angepasst */
+  border-radius: 16px; /* Abgerundete Ecken */
+  display: flex; /* Flexbox für zentrierten Inhalt */
+  align-items: center; /* Vertikal zentrieren */
+  justify-content: center; /* Horizontal zentrieren */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* Dezenter Rahmen */
+  box-shadow:
+    inset -2px -2px 4px rgba(255, 255, 255, 0.05),
+    inset 2px 2px 4px rgba(0, 0, 0, 0.5),
+    -6px -6px 12px rgba(255, 255, 255, 0.1),
+    6px 6px 12px rgba(0, 0, 0, 0.5); /* Kombination aus innerem und äußerem Schatten */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation */
+}
+
+/* Hover-Effekt für Container */
+.code-icon-container:hover {
+  transform: scale(1.1); /* Vergrößern bei Hover */
+  box-shadow:
+    inset -4px -4px 8px rgba(255, 255, 255, 0.1),
+    inset 4px 4px 8px rgba(0, 0, 0, 0.4),
+    -8px -8px 16px rgba(255, 255, 255, 0.2),
+    8px 8px 16px rgba(0, 0, 0, 0.6); /* Intensiverer Schatten */
+}
+
+/* Styling für die SVG-Icons */
+.code-icon {
+  width: 60%; /* Breite des Icons relativ zum Container */
+  height: 60%; /* Höhe des Icons relativ zum Container */
+  object-fit: contain; /* Skalierung des Inhalts */
+}

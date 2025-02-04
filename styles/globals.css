@@ -1,0 +1,112 @@
+
+/* Reset */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #000; /* Standardhintergrund */
+  color: #fff;
+  padding-top: 80px;
+}
+
+/* Allgemeine Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+
+/* Für eine helle, neutrale Schriftfarbe */
+.text-light-gray {
+  color: #C0CDCD;
+}
+
+/* Für eine goldene Schriftfarbe */
+.text-gold {
+  color: #917343;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #B0B1B1 20%, #886B3C 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-size: 3.5rem; /* Erhöhte Schriftgröße */
+  font-weight: 900; /* Extra fett */
+  line-height: 1.2; /* Enger Zeilenabstand */
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Navigation Container */
+.nav-container {
+  width: 100%;
+  padding: 15px 30px;
+  background: rgba(18, 18, 18, 0.9); /* Dunkler, leicht transparenter Hintergrund */
+  backdrop-filter: blur(10px); /* Weicher Blur-Effekt */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+/* Navigation Wrapper */
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Navigation Links */
+.nav {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  display: inline-block;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgb(181, 142, 83); /* Goldene Schriftfarbe */
+  padding: 10px 15px;
+  transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  color: #b58e53; /* Helleres Gold */
+  transform: scale(1.1);
+}
+
+/* Sprachumschaltung */
+.btn-language {
+  background: transparent;
+  border: 1px solid rgb(181, 142, 83);
+  color: rgb(181, 142, 83);
+  font-size: 1rem;
+  padding: 8px 16px;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-language:hover {
+  background: #b58e53;
+  color: #121212;
+  transform: scale(1.1);
+}

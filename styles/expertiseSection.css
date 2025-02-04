@@ -1,0 +1,104 @@
+/* Content Wrapper */
+.content-wrapper {
+  transition: max-height 0.5s ease-in-out, opacity 0.5s ease-in-out;
+  opacity: 1;
+  overflow: hidden;
+}
+
+/* Header-Bereich */
+.toggle-header {
+  position: relative;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.toggle-line-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line {
+  flex: 1;
+  height: 1px;
+  background-color: #ccc;
+}
+
+.toggle-title {
+  font-size: 1.2rem; /* Kleinere Schriftgröße */
+  font-weight: bold;
+  color: #fff;
+}
+
+.toggle-icon {
+  font-size: 1.2rem; /* Etwas kleinerer Pfeil */
+  color: #fff;
+  transition: transform 0.3s ease;
+}
+
+.toggle-icon.expanded {
+  transform: rotate(180deg);
+}
+
+/* Karten-Bereich */
+.expertise-card {
+  background: linear-gradient(90deg, #2b2b2b 20%, #121212 80%); /* Sanfter Farbverlauf */
+  padding: 20px;
+  border-radius: 15px; /* Sanftere, rundere Ecken */
+  box-shadow:
+    -6px -6px 12px rgba(255, 255, 255, 0.05), /* Subtiler heller Schatten links oben */
+    6px 6px 12px rgba(0, 0, 0, 0.5); /* Dunkler Schatten rechts unten */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* Dezenter Rahmen */
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+}
+
+.expertise-card:hover {
+  transform: scale(1.05); /* Leichtes Vergrößern */
+  box-shadow:
+    -8px -8px 16px rgba(255, 255, 255, 0.1), /* Intensiver heller Schatten links oben */
+    8px 8px 16px rgba(0, 0, 0, 0.6); /* Intensiver dunkler Schatten rechts unten */
+}
+
+/* Icon-Container */
+.icon-wrapper {
+  width: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: box-shadow 0.3s ease;
+}
+
+.icon-wrapper img {
+  width: 100%;
+  height: auto;
+}
+
+.icon-wrapper:hover {
+  box-shadow:
+    inset -4px -4px 8px rgba(255, 255, 255, 0.1), /* Intensiver innerer heller Schatten */
+    inset 4px 4px 8px rgba(0, 0, 0, 0.4); /* Intensiver innerer dunkler Schatten */;
+}
+
+/* Titel und Beschreibung */
+.expertise-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #fff; /* Weiße Schrift */
+}
+
+.expertise-description {
+  font-size: 0.9rem;
+  color: #ccc; /* Dezente Schriftfarbe */
+  line-height: 1.6;
+}
+
+/* Hintergrund und allgemeines Styling */
+body {
+  background-color: #121212; /* Passender Hintergrund für Kontrast */
+  color: #fff;
+}

@@ -1,0 +1,52 @@
+/* Die Section bekommt den Hintergrund */
+.hero-section {
+  background-image: url('/background1.png');
+  background-color: rgba(0, 0, 0, 0.8); /* Abdunkelung */
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+}
+
+/* Sorgt dafür, dass die Spalte das Bild nach unten drückt */
+.hero-image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+/* Bildgröße anpassen */
+.hero-image {
+  max-height: 60vh;
+  width: auto;
+  object-fit: contain;
+}
+
+.text-left {
+  text-align: left !important; /* Erzwingt Links-Ausrichtung */
+}
+
+/* Hauptüberschrift (Discover the World...) */
+.hero-title {
+  font-size: 3.5rem; /* Anpassung der Schriftgröße */
+  font-weight: 700; /* Fett */
+  line-height: 1.2; /* Engerer Zeilenabstand */
+}
+
+/* Unterüberschrift (Passionate Software Developer...) */
+.hero-subtitle {
+  font-size: 1rem; /* Etwas kleinere Schriftgröße */
+  font-weight: 400; /* Halb-fett */
+  margin-bottom: 1rem; /* Abstand unter der Überschrift */
+}
+
+/* Beschreibungstext (Welcome to my personal website...) */
+.hero-description {
+  font-size: 1rem; /* Standard-Schriftgröße */
+  font-weight: 400; /* Normale Dicke */
+  line-height: 1.5; /* Lesbarer Zeilenabstand */
+  max-width: 680px; /* Begrenzung der Breite */
+  margin-bottom: 1.5rem; /* Abstand unter dem Text */
+}

@@ -1,0 +1,109 @@
+/* Flip-Card mit permanentem goldenen Rand */
+.flip-card.with-gold-border {
+  background-color: transparent;
+  width: 100%;
+  height: 300px; /* Feste Höhe */
+  perspective: 1000px;
+  border: 2px solid #b58e53; /* Goldener Rand */
+  border-radius: 15px; /* Abgerundete Ecken */
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4); /* Subtiler Glow-Effekt */
+  overflow: hidden; /* Verhindert, dass Inhalte über die Karte hinausragen */
+  transition: transform 0.3s ease-in-out; /* Glatter Übergang */
+}
+
+/* Flip-Card-Inner mit Flip-Effekt */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease-in-out;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg); /* Flip-Effekt */
+}
+
+/* Vorderseite und Rückseite der Karte */
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden; /* Kein Durchscheinen */
+  border-radius: 15px; /* Abgerundete Ecken */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0; /* Kein Padding */
+}
+
+/* Vorderseite */
+.flip-card-front {
+  background-color: rgba(255, 255, 255, 0.9); /* Weißer Hintergrund */
+  color: var(--primary-text);
+}
+
+/* Rückseite */
+.flip-card-back {
+  background-color: rgba(0, 0, 0, 0.8); /* Dunkler Hintergrund */
+  transform: rotateY(180deg);
+  color: var(--primary-text);
+  padding: 20px; /* Padding nur für Text */
+}
+
+/* Bild auf der Vorderseite */
+.card-image {
+  width: 100%; /* Bild füllt die gesamte Breite */
+  height: 100%; /* Bild füllt die gesamte Höhe */
+  object-fit: cover; /* Skaliert proportional, ohne das Bild zu verzerren */
+  border-radius: 15px; /* Gleiche abgerundete Ecken wie der Container */
+}
+
+/* Button-Styling */
+.card-footer .btn-gold {
+  background-color: #b58e53;
+  color: #121212;
+  border: none;
+  padding: 10px 20px;
+  font-weight: 600;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+.card-footer .btn-gold:hover {
+  background-color: #ffd700; /* Helleres Gold */
+  color: #000;
+  transform: scale(1.1); /* Leichtes Vergrößern */
+}
+
+/* Titel und Beschreibung im Footer */
+.card-footer h4.text-gold {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.card-footer p.text-silver {
+  font-size: 1rem;
+  color: #c0cdcd;
+}
+
+/* Styling für den "Erfahre mehr"-Button */
+.btn-learn-more {
+  background-color: #b58e53; /* Goldener Hintergrund */
+  color: #fff; /* Weiße Schrift */
+  font-weight: 600; /* Dickere Schrift */
+  border: none; /* Keine Umrandung */
+  border-radius: 30px; /* Runde Form */
+  padding: 10px 25px; /* Angenehme Größe */
+  text-transform: uppercase; /* Großbuchstaben */
+  transition: all 0.3s ease-in-out;
+  font-size: 0.9rem; /* Angepasste Schriftgröße */
+}
+
+.btn-learn-more:hover {
+  background-color: #b58e53; /* Helleres Gold beim Hover */
+  transform: scale(1.05); /* Leichtes Vergrößern */
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4); /* Subtiler Glow-Effekt */
+}

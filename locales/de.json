@@ -1,0 +1,300 @@
+{
+  "tabs.business": "Karriere",
+  "tabs.creative": "Persönlich",
+  "tabs.welcome": "Willkommen in meiner kreativen Welt",
+  "button.toggleMode.simple": "Zum einfachen Modus",
+  "button.toggleMode.creative": "Zum kreativen Modus",
+  "button.aboutMe": "Über mich",
+  "hero.title": "Entdecken Sie die Welt der Innovation mit mir",
+  "hero.subtitle": "Leidenschaftlicher Softwareentwickler, der die Grenzen des Möglichen erweitert",
+  "hero.description": "Willkommen auf meiner persönlichen Website! Ich bin Tobi, ein Softwareentwickler mit einer tiefen Leidenschaft für Technologie und kreatives Problemlösen. Tauchen Sie ein in mein Universum aus Code, wo jedes Projekt eine Geschichte von Herausforderung und Erfolg erzählt.",
+  "codeUniverse.title": "Mein Code-Universum",
+  "projectsIntro.title": "Meine Projekte",
+  "projectsIntro.description": "Hier finden Sie eine Auswahl meiner digitalen Projekte, die aus meiner Leidenschaft für Innovation und präzise Umsetzung entstanden sind. Tauche ein und erlebe die Vielfalt meiner Arbeit – von Webanwendungen über Softwarelösungen bis hin zu kreativen Experimenten. Jedes Projekt erzählt seine eigene Geschichte und zeigt mein Streben nach Exzellenz und Innovation. Viel Spaß beim Erkunden!",
+  "animatedKeywords.title": "Lass uns etwas großartiges erschaffen",
+  "animatedKeywords.highlight": "Erschaffen",
+  "largeProjects.title": "Große Projekte",
+  "largeProjects.project1.title": "MarketMaven",
+  "largeProjects.project1.description": "Eine innovative Plattform für modernes Trading und Finanzanalysen.",
+  "largeProjects.project2.title": "Clikce",
+  "largeProjects.project2.description": "Socialmedia-Managementplattform: Das Abschlussprojekt meiner Schullaufbahn.",
+  "button.learnMore": "Erfahre mehr",
+
+
+
+  "expertise.title": "Meine Expertise für Ihre ambitionierten Ziele",
+  "expertise.python.title": "Python",
+  "expertise.python.description": "Bereits während meiner Schulzeit habe ich mein Wissen in Python vertieft und mich auf zwei zentrale Bereiche spezialisiert:\n\nGrafische Programmierung mit PyQt: Durch die Entwicklung intuitiver und ansprechender Benutzeroberflächen konnte ich meine Fähigkeit ausbauen, technische Funktionalität mit einem ansprechenden Design zu verbinden.\n\nDatenanalyse mit Pandas: Die Arbeit mit großen Datensätzen und deren effiziente Analyse hat mir ermöglicht, datengetriebene Entscheidungen zu treffen – eine essenzielle Fähigkeit in der modernen Welt der Technologie.\n\nDarüber hinaus habe ich mir eigenständig Kenntnisse in der Webentwicklung angeeignet und mit Flask, einem leistungsfähigen Mikro-Webframework für Python, gearbeitet. So konnte ich flexible und effiziente Backends für meine Webprojekte entwickeln.",
+
+
+  "expertise.business.title": "Betriebswirtschaft",
+  "expertise.business.description": "Im Rahmen meines Studiums der Wirtschaftsinformatik habe ich mich intensiv mit den Kernbereichen der Betriebswirtschaftslehre befasst, insbesondere mit den Bereichen Finanzbuchhaltung und Logistik. Diese Ausbildung hat es mir ermöglicht, ein umfassendes Verständnis dieser essenziellen Geschäftsprozesse zu entwickeln.\n\nFinanzbuchhaltung: Ich habe vertiefte Kenntnisse in der Finanzbuchhaltung erworben, darunter das Erfassen und Analysieren von Geschäftstransaktionen, die Erstellung von Bilanzen sowie Gewinn- und Verlustrechnungen und die Anwendung von Rechnungslegungsstandards.\n\nLogistische Prozesse: Im Bereich der Logistik habe ich mehrere Geschäftsprozesse kennengelernt bspw. Abläufe in der Fertigung, Material als auch Angestelltenbeschaffung",
+  "expertise.ai.title": "Künstliche Intelligenz",
+  "expertise.ai.description": "Im Rahmen meiner schulischen Ausbildung habe ich die faszinierende Welt der künstlichen Intelligenz erkundet, insbesondere neuronale Netze. Dabei habe ich grundlegende sowie fortgeschrittene Prinzipien des Aufbaus und der Anwendung neuronaler Netze erlernt, einschließlich ihrer Architektur und Programmierung mit TensorFlow.\n\nDurch praktische Projekte habe ich Erfahrungen in der Anwendung dieser Technologien auf verschiedene Aufgaben wie Klassifikation, Regression sowie Bild- und Mustererkennung gesammelt. Diese Projekte haben es mir ermöglicht, ein tieferes Verständnis für die Chancen und Herausforderungen der KI zu entwickeln und praktische Fähigkeiten im Umgang mit fortschrittlichen Technologien zu erlangen.",
+  "expertise.sql.title": "SQL / Datenbanken",
+  "expertise.sql.description": "Während meiner Schulzeit habe ich umfangreiche Kenntnisse im Bereich Datenbanken und SQL erworben. Dabei habe ich mich eingehend mit den Grundlagen und fortgeschrittenen Techniken des Datenbankdesigns, der Implementierung und Wartung sowie der Optimierung von SQL-Abfragen befasst.\n\nDiese Fähigkeiten haben es mir ermöglicht, leistungsstarke Datenbanklösungen zu entwerfen, die sowohl hohen Integritätsanforderungen gerecht werden als auch eine effiziente Abfragegeschwindigkeit gewährleisten.",
+  "expertise.html.title": "HTML / CSS",
+  "expertise.html.description": "Mein Interesse an der außerschulischen Weiterbildung führte mich dazu, HTML und CSS zu lernen – die Grundsteine der Webentwicklung. Durch das Absolvieren mherer Kurse habe ich ein fundiertes Verständnis dieser Technologien erworben, das es mir ermöglicht, strukturierte und visuell ansprechende Websites zu gestalten.\n\nIch nutze HTML, um die Grundstruktur jeder Website zu schaffen, während CSS das Layout und das visuelle Design bereitstellt, wodurch meine Projekte eine professionelle Ästhetik und eine intuitive Benutzeroberfläche erhalten.",
+  "expertise.javascript.title": "JavaScript",
+  "expertise.javascript.description": "Neben meiner schulischen Ausbildung habe ich mich eigenständig in die Welt von JavaScript vertieft, um meine Fähigkeiten im Bereich der Webentwicklung auszubauen. Durch verschiedene Kurse habe ich mir ein umfangreiches Wissen über JavaScript angeeignet, das es mir ermöglicht, interaktive und dynamische Webanwendungen zu entwickeln.\n\nIch habe gelernt, JavaScript zu nutzen, um Benutzeroberflächen interaktiv zu gestalten, Logik auf der Client-Seite zu implementieren und mit Web-APIs zu interagieren, um responsive und benutzerfreundliche Websites zu erstellen.",
+  "expertise.php.title": "PHP / Symfony",
+  "expertise.php.description": "Bei meinem ersten Arbeitgeber habe ich intensiv mit PHP gearbeitet, insbesondere mit dem Symfony-Framework. Dabei habe ich skalierbare und wartbare Webanwendungen entwickelt, die sowohl den Anforderungen moderner Softwarearchitektur als auch hohen Performance-Ansprüchen gerecht werden.",
+
+
+
+
+  "clikce.title": "Clikce",
+  "clikce.description": "Ein Einblick in die kreative Reise hinter Clikce, vom Webdesign bis zur Entwicklung – die Prozesse, Inspirationen und strategischen Entscheidungen, die dieses Projekt geformt haben.",
+  "clikce.featuresTitle": "Funktionen von Clikce",
+  "clikce.feature1": "ein zentraler ort für mehrere Socialmedia Accounts",
+  "clikce.feature2": "Erweiterte Analysen",
+  "clikce.feature3": "Nahtlose Integration mit APIs",
+  "clikce.feature4": "Posts planen",
+  "clikce.feature5": "KI-Hilfe für die Post-Erstellung",
+  "clikce.technologiesTitle": "Verwendete Technologien",
+  "clikce.liveDemo": "Live-Demo ansehen",
+
+
+
+
+
+
+  "marketMaven.description": "MarketMaven ist eine innovative Webplattform für Finanz- und Trading-Analysen. Sie bietet eine umfassende Suite an Tools zur Analyse von Märkten, Backtesting von Trading-Strategien und Verwaltung des Portfolios.",
+  "marketMaven.featuresTitle": "Funktionen",
+  "marketMaven.feature1": "Echtzeit-Kursdaten und Trading-Analyse",
+  "marketMaven.feature2": "Backtesting-Tool zur Strategieentwicklung",
+  "marketMaven.feature3": "Detaillierte Portfolio-Übersicht",
+  "marketMaven.feature4": "Integrierte PayPal-Zahlungen für Abos",
+  "marketMaven.feature5": "Machine Learning-gestützte Prognosen",
+  "marketMaven.technologiesTitle": "Technologien",
+  "marketMaven.liveDemo": "Live-Demo ansehen",
+
+
+  "clikce.title": "Clikce",
+  "clikce.logoAlt": "Clikce-Logo",
+  "clikce.steps.step1.title": "1. Planung und Anforderungen:",
+  "clikce.steps.step1.description": "Der Prozess begann mit der Planung der Anwendung und der Definition der Anforderungen. Wir definierten, welche Funktionen und Features Clikce bieten sollte und wie sie den Nutzern Mehrwert bieten können.",
+  "clikce.steps.step2.title": "2. Erste Skizzen von Hand:",
+  "clikce.steps.step2.description": "Wir erstellten dann einige grobe Skizzen von Hand, um die grundlegende Struktur und das Layout der Seite zu visualisieren. Diese Skizzen halfen uns, unsere Ideen auszuarbeiten und einen klaren Plan für das Design zu entwickeln.",
+
+
+  "clikce.figma.title": "3. Designs in Figma",
+  "clikce.figma.description": "Nach Abschluss der groben Skizzen haben wir mit der detaillierten Gestaltung in Figma begonnen und jede Seite und Funktion der Anwendung einzeln betrachtet. Dabei haben wir das Layout und die Benutzeroberfläche sorgfältig gestaltet. Wir haben großen Wert auf Benutzerfreundlichkeit gelegt, um sicherzustellen, dass das Design intuitiv ist und ein angenehmes Benutzererlebnis bietet. Verschiedene Interaktionen und Navigationselemente wurden berücksichtigt, um eine reibungslose und effiziente Nutzung der Anwendung zu gewährleisten. Ein weiterer wichtiger Aspekt war das Design der Farbpaletten und die Auswahl geeigneter Farben für die Anwendung. Wir haben Farben ausgewählt, die nicht nur ästhetisch ansprechend sind, sondern auch zur Markenidentität von Clikce passen und ein konsistentes Erscheinungsbild gewährleisten.\n\nZusätzlich haben wir Anpassungen vorgenommen, um sicherzustellen, dass die Anwendung auf unterschiedlichen Bildschirmgrößen und Geräten optimal dargestellt wird. Wir haben ein responsives Design implementiert, um sicherzustellen, dass das Benutzererlebnis auf Desktops, Tablets und mobilen Geräten konsistent und benutzerfreundlich ist.",
+  "clikce.figma.imageAlt": "Designs von Clikce in Figma",
+
+
+  "clikce.programming.title": "4. Programmierung und Management",
+  "clikce.programming.introduction": "Nach Abschluss der Designs in Figma begannen wir mit der Implementierung der Anwendung unter Verwendung eines effektiven Projektmanagementtools namens YouTrack und einer Kombination aus Scrum- und Kanban.",
+  "clikce.programming.subheading1": "Programmierung:",
+  "clikce.programming.description1": "Während der Programmierphase haben wir die Designs in funktionierenden Code umgesetzt und uns dabei eng an die in der Planungsphase festgelegten Spezifikationen und Anforderungen gehalten. Wir haben modernste Technologien und bewährte Entwicklungsmethoden eingesetzt, um sicherzustellen, dass die Anwendung stabil, skalierbar und benutzerfreundlich ist.",
+  "clikce.programming.subheading2": "Management mit YouTrack:",
+  "clikce.programming.description2": "Für das Projektmanagement haben wir YouTrack verwendet, ein leistungsstarkes Tool, mit dem wir Aufgaben verfolgen, den Fortschritt überwachen und effizient zusammenarbeiten konnten. Wir haben unsere Aufgaben in YouTrack organisiert und priorisiert, um sicherzustellen, dass wichtige Meilensteine pünktlich erreicht wurden.",
+  "clikce.programming.subheading3": "Scrum und Kanban:",
+  "clikce.programming.description3": "Wir haben eine Mischung aus Scrum- und Kanban-Methoden verwendet, um unsere Arbeitsabläufe zu optimieren und Flexibilität zu gewährleisten. Wir haben Sprints definiert, in denen wir uns auf die Implementierung spezifischer Features konzentrierten, und gleichzeitig ein Kanban-Board genutzt, um den Workflow zu visualisieren und Engpässe zu identifizieren. Diese Kombination hat uns ermöglicht, effizient zu arbeiten und gleichzeitig eine hohe Produktqualität sicherzustellen.",
+  "clikce.programming.imageAlt": "YouTrack Kanban-Board für Clikce",
+
+
+  "clikce.login.title": "Login und Registrierungsseite",
+  "clikce.login.description": "Die Login- und Registrierungsseite ist der erste Schritt, damit Benutzer auf die Clikce-Plattform zugreifen können. Diese Seite ermöglicht es Benutzern, entweder ein neues Konto zu erstellen oder sich mit ihren bestehenden Anmeldedaten anzumelden. Die Authentifizierung wird über Google Firebase abgewickelt, das eine sichere und zuverlässige Methode zur Verwaltung von Benutzerkonten und Authentifizierungen bietet.",
+  "clikce.login.subheading1": "Authentifizierung über Google Firebase:",
+  "clikce.login.description1": "Die Authentifizierung wird sicher über Google Firebase verwaltet, was eine zuverlässige und einfach zu bedienende Methode zur Verwaltung von Benutzerkonten und Authentifizierungen bietet. Benutzer können sicher sein, dass ihre Anmeldeinformationen geschützt sind.",
+  "clikce.login.subheading2": "Passwort vergessen Funktion:",
+  "clikce.login.description2": "Es gibt auch eine Funktion für Benutzer, die ihr Passwort vergessen haben. Sie können ihre E-Mail-Adresse eingeben und erhalten Anweisungen zum Zurücksetzen ihres Passworts.",
+  "clikce.login.imageAlt1": "Login-Seite für Clikce",
+  "clikce.login.imageAlt2": "Registrierungsseite für Clikce",
+
+
+  "clikce.dashboard.title": "Dashboard",
+  "clikce.dashboard.description": "Das Clikce-Dashboard bietet Benutzern eine Übersicht über ihre Instagram-Konten und deren Performance. Es ist der zentrale Punkt, um wichtige Kennzahlen und Statistiken über ihre Konten zu sehen.",
+  "clikce.dashboard.mainFunctions": "Hauptfunktionen:",
+  "clikce.dashboard.accountSummaryTitle": "Kontenübersicht:",
+  "clikce.dashboard.accountSummaryDescription": "Das Dashboard zeigt alle registrierten Instagram-Konten der Benutzer an. Jedes Konto wird mit seinem Profilbild und Benutzernamen für eine schnelle Identifizierung präsentiert.",
+  "clikce.dashboard.performanceOverviewTitle": "Performance-Übersicht:",
+  "clikce.dashboard.performanceOverviewDescription": "Eine Leistungsübersicht wird für jedes Instagram-Konto angezeigt. Dazu gehören wichtige Metriken wie Anzahl der Follower, Engagement-Rate, Anzahl der Beiträge und Wachstum über einen bestimmten Zeitraum. Diese Statistiken helfen Benutzern, die Leistung ihrer Konten zu verfolgen und zu analysieren.",
+  "clikce.dashboard.topAccountTitle": "Bestes Konto:",
+  "clikce.dashboard.topAccountDescription": "Zusätzlich zur Gesamtübersicht zeigt das Dashboard das beste Konto des Benutzers an. Dies ist das Konto mit der besten Leistung basierend auf Kriterien wie Engagement-Rate, Follower-Wachstum oder Anzahl der Beiträge.",
+  "clikce.dashboard.imageAlt": "Dashboard-Ansicht von Clikce",
+
+
+    "clikce.postCalendar.title": "Post-Kalender",
+  "clikce.postCalendar.description": "Der Post-Kalender in Clikce ermöglicht es Benutzern, ihre Instagram-Beiträge zu planen, zu verwalten und ihre Social-Media-Strategie effektiv zu organisieren. Er dient als zentraler Ort für die Planung und Veröffentlichung von Inhalten auf Instagram.",
+  "clikce.postCalendar.mainFunctions": "Hauptfunktionen:",
+  "clikce.postCalendar.planningTitle": "Beitragsplanung:",
+  "clikce.postCalendar.planningDescription": "Benutzer können Beiträge für ihre Instagram-Konten planen und Zeiten für deren Veröffentlichung festlegen. Der Post-Kalender bietet eine benutzerfreundliche Oberfläche zum Erstellen, Bearbeiten und Planen von Beiträgen mit flexibler Anpassung von Datum und Uhrzeit der Veröffentlichung.",
+  "clikce.postCalendar.overviewTitle": "Übersicht geplanter Beiträge:",
+  "clikce.postCalendar.overviewDescription": "Der Kalender bietet eine klare Übersicht über alle geplanten Beiträge, wobei jeder Beitrag mit seinem Inhalt und dem geplanten Veröffentlichungsdatum angezeigt wird. Dies ermöglicht es Benutzern, ihre Inhalte regelmäßig und konsistent zu veröffentlichen.",
+  "clikce.postCalendar.imageAlt": "Post-Kalenderansicht von Clikce",
+
+
+
+  "clikce.postFeatures.title": "Zusätzliche Funktionen im Post-Kalender",
+  "clikce.postFeatures.imageAlt": "Hashtag-Erstellung und Bot-Funktionen",
+  "clikce.postFeatures.hashtagTitle": "Hashtag-Sets:",
+  "clikce.postFeatures.hashtagDescription": "Benutzer können Sets von Hashtags erstellen und speichern, die sie regelmäßig in ihren Beiträgen verwenden möchten. Diese Hashtag-Sets erleichtern es Benutzern, relevante Hashtags schnell hinzuzufügen und Zeit bei der Erstellung von Beiträgen zu sparen.",
+  "clikce.postFeatures.botTitle": "Bot-Erstellung:",
+  "clikce.postFeatures.botDescription": "Zusätzlich zur Beitragsplanung bietet der Post-Kalender die Möglichkeit, Bots zu erstellen, die Interaktionen auf Instagram für den Benutzer übernehmen können. Benutzer können spezifische Aktionen definieren, die der Bot ausführen soll, z. B. Beiträge liken, kommentieren oder Direktnachrichten senden.",
+  "clikce.postFeatures.captionTitle": "Bildunterschriften mit OpenAI:",
+  "clikce.postFeatures.captionDescription": "Mit der OpenAI-Bibliothek können Benutzer automatisch Bildunterschriften für ihre Instagram-Posts generieren.",
+
+
+
+  "clikce.analysis.title": "Analyse-Seite",
+  "clikce.analysis.description": "Die Analyse-Seite von Clikce ermöglicht es Benutzern, ihre Instagram-Konten tiefgehend zu analysieren und detaillierte Einblicke in deren Leistung zu gewinnen. Hier können Benutzer einzelne Konten genauer betrachten und wichtige Kennzahlen zu ihrer Aktivität und Interaktion verfolgen. Zusätzlich wird die Analyse-Seite verwendet, um den Bot zu überwachen und dessen Interaktionen durch detaillierte Protokolle zu tracken.",
+  "clikce.analysis.functionsTitle": "Hauptfunktionen:",
+  "clikce.analysis.function1.title": "Detaillierte Analyse von Instagram-Konten:",
+  "clikce.analysis.function1.description": "Benutzer können einzelne Instagram-Konten auswählen und deren Leistung detailliert analysieren. Dies umfasst Kennzahlen wie Follower-Wachstum, Engagement-Rate, beliebteste Beiträge und Interaktionsmuster.",
+  "clikce.analysis.function2.title": "Leistungsdiagramme und -grafiken:",
+  "clikce.analysis.function2.description": "Die Analyse-Seite stellt die Daten in übersichtlichen Diagrammen und Grafiken dar, was es den Benutzern erleichtert, Trends und Muster zu erkennen. Dies hilft ihnen, ihre Social-Media-Strategie zu optimieren und ihren Content anzupassen.",
+  "clikce.analysis.function3.title": "Bot-Überwachung und Log-Analyse:",
+  "clikce.analysis.function3.description": "Zusätzlich zur Analyse von Instagram-Konten bietet die Seite Funktionen zur Überwachung des Bots und seiner Interaktionen. Benutzer können detaillierte Protokolle einsehen, die alle Interaktionen des Bots dokumentieren, wie Likes, Kommentare und Direktnachrichten.",
+  "clikce.analysis.imageAlt": "Diagramm und Tabellen der Analyse-Seite",
+
+
+
+
+
+  "marketmaven.title": "MarketMaven",
+  "marketmaven.description": "Ein Marktanalyse Tool zur verbesserung von Tradingstrategien.",
+  "marketmaven.featuresTitle": "Hauptfunktionen",
+  "marketmaven.feature1": "Analyse von Markttrends in Echtzeit",
+  "marketmaven.feature2": "Portfoliofunktion",
+  "marketmaven.feature3": "Möglichkeit, börsenübergreifend zu traden",
+  "marketmaven.feature4": "Winrate analyse und Vorhersage",
+  "marketmaven.feature5": "API-Integration von verschiedenen Börsen",
+  "marketmaven.technologiesTitle": "Verwendete Technologien",
+
+
+
+
+
+  "marketmaven.homepage.title": "Aufbau",
+  "marketmaven.homepage.description": "MarketMaven ist in zwei Bereiche unterteilt: die Landingpage und die eigentliche Anwendung. Die Landingpage dient als erste Anlaufstelle und bietet einen strukturierten Überblick über die Funktionen und Möglichkeiten von MarketMaven. Sie umfasst die Bereiche Features, Pricing, Learn, Coming Soon und Kontakt. Features gibt einen detaillierten Überblick über alle Funktionen der Anwendung. Pricing informiert über die verfügbaren Abonnements und Zahlungsmöglichkeiten wie PayPal und Kreditkarte. Learn enthält Videos und Anleitungen, die die Nutzung der Anwendung veranschaulichen. Coming Soon zeigt geplante Erweiterungen und zukünftige Funktionen. Im Bereich Kontakt können Nutzer mit dem Support-Team in Verbindung treten. Diese klare Trennung zwischen Präsentation und Anwendung sorgt für eine intuitive und informative Nutzererfahrung.",
+  "marketmaven.homepage.featuresAlt": "Vorschau der MarketMaven-Funktionen",
+  "marketmaven.homepage.pricingAlt": "MarketMaven Abonnement-Übersicht",
+  "marketmaven.homepage.learnAlt": "Lernbereich von MarketMaven",
+  "marketmaven.homepage.comingSoonAlt": "MarketMaven zukünftige Funktionen",
+  "marketmaven.homepage.contactAlt": "MarketMaven Support-Kontakt",
+
+
+
+
+  "marketmaven.dashboard.title": "Dashboard Funktionen",
+  "marketmaven.dashboard.description": "Das Dashboard von MarketMaven bietet eine benutzerfreundliche Übersicht über alle wichtigen Funktionen, die für Trader und Investoren entscheidend sind. Es vereint intuitive Navigation, wichtige Finanzdaten und Performance-Analysen in einem modernen Design.",
+  "marketmaven.dashboard.imageAlt": "MarketMaven Dashboard",
+
+  "marketmaven.dashboard.navigationTitle": "Navigation",
+  "marketmaven.dashboard.navigationDescription": "Die Navigation ermöglicht den schnellen Zugriff auf alle Kernfunktionen, wie Charts, Backtester, Portfolio und die Winrate-Analyse. So behalten Nutzer stets den Überblick über ihre wichtigsten Werkzeuge.",
+
+  "marketmaven.dashboard.quicklinksTitle": "Quicklinks",
+  "marketmaven.dashboard.quicklinksDescription": "Unterhalb des Hauptbereichs befinden sich Quicklinks, die es den Nutzern erleichtern, direkt zu wichtigen Funktionen wie dem Portfolio oder der Winrate zu springen.",
+
+  "marketmaven.dashboard.calendarTitle": "Wirtschaftskalender",
+  "marketmaven.dashboard.calendarDescription": "Ein Kalender, der über die TradingView API eingebunden wurde, zeigt wichtige wirtschaftliche Ereignisse und deren Datum. Diese Daten helfen Nutzern, ihre Handelsstrategien an aktuellen Ereignissen auszurichten.",
+
+  "marketmaven.dashboard.tickerTitle": "Aktien-Performance-Ticker",
+  "marketmaven.dashboard.tickerDescription": "Ein visueller Ticker zeigt die Tagesperformance verschiedener Aktien und Indizes in einer klaren, leicht verständlichen Darstellung. Dies ermöglicht es den Nutzern, schnell einen Überblick über die Marktbewegungen zu erhalten.",
+
+
+
+
+
+  "marketmaven.tradingTerminal.title": "Trading Terminal",
+  "marketmaven.tradingTerminal.description": "Das Trading Terminal bietet eine umfassende Handelsumgebung, in der alle wesentlichen Funktionen integriert sind. Der eingebettete TradingView-Chart ermöglicht detaillierte Analysen und stellt alle Zeichen- und Interaktionstools zur Verfügung. Zudem können über API-Schlüssel mehrere Börsen verbunden werden, um börsenübergreifend zu traden. Mit dem Toggle Backtester lassen sich Chart und Backtester gleichzeitig anzeigen, sodass Positionen eingezeichnet, Strategien getestet und Backtesting-Ergebnisse dokumentiert werden können. Das Toggle Diagram zeigt abschließend die Statistiken des aktuellen Backtests an.",
+  "marketmaven.tradingTerminal.imageAlt": "Ansicht des Trading Terminals",
+
+  "marketmaven.tradingTerminal.chartTitle": "Trading Chart und Tools",
+  "marketmaven.tradingTerminal.chartDescription": "Der in TradingView eingebettete Chart bietet umfangreiche Analyse-Tools, mit denen man Marktbewegungen detailliert beobachten und zeichnen kannst.",
+
+  "marketmaven.tradingTerminal.apiTitle": "API-Anbindung für Cross-Market Trading",
+  "marketmaven.tradingTerminal.apiDescription": "durch die Verbindung mehrer API-Schlüssel kann man auf mehreren Börsen gleichzeitig traden und die Handelskonten zentral zu verwalten.",
+
+  "marketmaven.tradingTerminal.backtesterTitle": "Toggle Backtester",
+  "marketmaven.tradingTerminal.backtesterDescription": "Mit dem Toggle Backtester kann man den Chart parallel zum Backtester anzeigen, um Positionen einzuzeichnen und Strategien direkt zu testen.",
+
+  "marketmaven.tradingTerminal.diagramTitle": "Toggle Diagram",
+  "marketmaven.tradingTerminal.diagramDescription": "Das Toggle Diagram visualisiert die Statistiken des aktuellen Backtests, sodass man die Performance der Handelsstrategien auf einen Blick erfassen kannst.",
+
+
+  "marketmaven.backtester.title": "Backtester",
+  "marketmaven.backtester.description": "Der Backtester ist ein Rechner, in dem Nutzer ihre Trades eingeben und ihr Kapital sowie weitere wichtige Parameter kontrollieren können, um ihre Handelsstrategie zu testen und weiterzuentwickeln. Zudem gibt es eine Backtest-Bibliothek, in der die Testergebnisse analysiert und gespeichert werden können.",
+
+  "marketmaven.backtester.image1.title": "Backtester Eingabeansicht",
+  "marketmaven.backtester.image1.description": "Im ersten Bild sieht man einen Chart, der die Performance des Backtests darstellt. Auf der rechten Seite befinden sich Eingabefelder und Parameter wie Balance, Hebel, Limit Order Fee, Market Order Fee, Profit und Loss. Hier kann der Backtest gespeichert und für eine detaillierte Analyse vorbereitet werden.",
+  "marketmaven.backtester.image1.alt": "Backtester Eingabeansicht",
+
+  "marketmaven.backtester.image2.title": "Backtest Analyseansicht",
+  "marketmaven.backtester.image2.description": "Im zweiten Bild werden die Ergebnisse des Backtests detailliert dargestellt. Auf der linken Seite findet man Statistiken wie Total Trades, Winning Trades, Losing Trades, Profit und Loss, Average Profit und Loss, Highest Profit und Highest Loss sowie eine Risikoanalyse und einen Volatilitätsindex. Ein Kuchendiagramm veranschaulicht die Gebührenaufteilung, während auf der rechten Seite ein Chartverlauf und eine Tabelle mit den einzelnen Trades angezeigt werden.",
+  "marketmaven.backtester.image2.alt": "Backtest Analyseansicht",
+
+
+
+
+  "marketmaven.portfolio.title": "Portfolio Übersicht",
+
+  "marketmaven.portfolio.description": "Die Portfolio-Seite bietet eine detaillierte Übersicht über verschiedene Investments. Unabhängig davon, ob es sich um Aktien, Kryptowährungen, Rohstoffe oder Fiat-Währungen handelt – die Verteilung der Anlagen wird übersichtlich in einem Kuchendiagramm visualisiert. Aktuelle Marktdaten werden automatisch per API abgerufen, um die Wertentwicklung der Assets seit dem Kauf darzustellen. Ein 'Details ansehen'-Button ermöglicht weiterführende Analysen und tiefere Einblicke in die Portfolio-Performance.",
+
+  "marketmaven.portfolio.imageAlt": "Übersicht der Portfolio-Verteilung als Kuchendiagramm",
+  "marketmaven.portfolio.detailsButton": "Details ansehen",
+
+
+  "marketmaven.winrateCalculator.title": "Winrate Calculator",
+  "marketmaven.winrateCalculator.imageAlt": "Darstellung des Winrate Calculators",
+  "marketmaven.winrateCalculator.description": "Der Winrate Calculator ermöglicht die Simulation der Kapitalentwicklung auf Basis historischer Backtest-Ergebnisse. Anhand von Handelsdaten, Startkapital, Gebühren, Hebel und weiteren Parametern wird die Gewinnrate einer Strategie berechnet. Basierend auf den ermittelten Ergebnissen zeigt der Rechner, wie sich das Kapital über die Zeit entwickeln könnte, und liefert wertvolle Einblicke in die potenzielle Performance der Handelsstrategie.",
+
+
+
+
+  "smallProjects.title": "Kleine Projekte",
+
+  "smallProjects.project1.title": "KI für Hirntumor-Erkennung",
+  "smallProjects.project1.subtitle": "Präzise Analyse von CT-Scans",
+  "smallProjects.project1.description": "Dieses Projekt verwendet künstliche Intelligenz, um auf CT-Scans des Gehirns das Vorhandensein eines Hirntumors zu erkennen. Die Lösung wurde in Python mit TensorFlow entwickelt und auf einem Datensatz mit über 2000 Hirnscans trainiert. Mit einer Klassifikationsgenauigkeit von 96 % würde sie eine zuverlässige Unterstützung für medizinische Diagnosen bieten.",
+
+
+
+  "smallProjects.project2.title": "Intelligente Heizungssteuerung",
+  "smallProjects.project2.subtitle": "Effiziente Steuerung per Desktop-App",
+  "smallProjects.project2.description": "Diese Anwendung ermöglicht die Steuerung und Überwachung eines Heizsystems über eine grafische Benutzeroberfläche. Entwickelt mit Python und PyQt5, bietet sie ein intuitives Interface, mit dem sich Temperatur, Heizmodi und Zeitpläne anpassen lassen. Die modulare Struktur der Anwendung sorgt für eine flexible und erweiterbare Architektur.",
+
+
+
+
+
+  "smallProjects.project3.title": "Bitcoin Trading Bot",
+  "smallProjects.project3.subtitle": "Automatisierte Trades mit gleitenden Durchschnitten",
+  "smallProjects.project3.description": "Dieses Python-basierte System analysiert Bitcoin-Preisdaten in 5-Minuten-Intervallen und setzt automatisierte Kauf- und Verkaufsorders auf einer Börse um. Es nutzt gleitende Durchschnitte (SMA 50 & SMA 200), um Handelsentscheidungen zu treffen, und kommuniziert über API-Schlüssel direkt mit der Börse. Mit Pandas werden Markttrends analysiert, während Matplotlib die Preisbewegungen visualisiert. Dieses Projekt zeigt datengetriebenes Trading und Automatisierung im Krypto-Markt.",
+
+
+
+
+
+  "hobbys.title": "Meine Hobbys",
+  "hobbys.hobby1.title": "3D-Modellieren & 3D-Drucken",
+  "hobbys.hobby1.description": "Die Verbindung von digitaler Gestaltung und physischer Umsetzung fasziniert mich. Beim 3D-Modellieren entwerfe ich detaillierte Modelle, die ich anschließend mit meinem 3D-Drucker in die Realität umsetze. Dies ermöglicht mir, einzigartige Miniaturen und funktionale Objekte zu erschaffen.",
+
+  "hobbys.hobby2.title": "Miniaturen & Figuren bemalen",
+  "hobbys.hobby2.description": "Das Bemalen von Miniaturen erfordert Präzision und Geduld. Ich liebe es, Modelle durch Farben und Details zum Leben zu erwecken. Es ist eine kreative Möglichkeit, meiner Fantasie freien Lauf zu lassen und handwerkliche Fähigkeiten zu verbessern.",
+
+  "hobbys.hobby3.title": "Fitness & Sport",
+  "hobbys.hobby3.description": "Regelmäßiges Training ist für mich nicht nur eine körperliche Herausforderung, sondern auch ein mentaler Ausgleich. Ob Krafttraining oder Ausdauer – Fitness hilft mir, meine Grenzen zu erweitern und Disziplin zu entwickeln.",
+
+  "hobbys.hobby4.title": "Malen & Zeichnen",
+  "hobbys.hobby4.description": "Mit Stift und Pinsel bringe ich meine kreativen Ideen aufs Papier. Das Malen und Zeichnen erlaubt mir, Emotionen visuell auszudrücken und neue künstlerische Techniken zu erlernen.",
+
+
+
+  "creativeTab.text1": "Tauchen Sie ein in meine interaktive 3D-Welt, in der Sie mehr über meine kreativen Projekte und Leidenschaften erfahren können.",
+  "creativeTab.text2": "Klicken Sie auf die Elemente auf meinem Schreibtisch, um spannende Inhalte zu entdecken. Jeder Gegenstand erzählt eine einzigartige Geschichte über meine Arbeit, meine Interessen und meine kreative Reise.",
+  "creativeTab.text3": "Viel Spaß beim Erkunden, und zögern Sie nicht, auf jedes Detail zu achten!"
+
+
+
+
+
+
+
+}
+
+
+
+
