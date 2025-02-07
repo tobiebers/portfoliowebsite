@@ -17,25 +17,25 @@ export default function CodeUniverse() {
           </div>
 
           <div className="col-auto">
-            <div className="code-icon-container">
+            <div className="code-icon-container m-1">
               <img src="/icons/icons8-html.svg" alt="HTML5" className="code-icon" />
             </div>
           </div>
 
           <div className="col-auto">
-            <div className="code-icon-container">
+            <div className="code-icon-container m-1">
               <img src="/icons/icons8-js.svg" alt="JavaScript" className="code-icon" />
             </div>
           </div>
 
           <div className="col-auto">
-            <div className="code-icon-container">
+            <div className="code-icon-container m-1">
               <img src="/icons/icons8-php.svg" alt="PHP" className="code-icon" />
             </div>
           </div>
 
           <div className="col-auto">
-            <div className="code-icon-container">
+            <div className="code-icon-container m-1">
               <img src="/icons/icons8-css.svg" alt="CSS3" className="code-icon" />
             </div>
           </div>
