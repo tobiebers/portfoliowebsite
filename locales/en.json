@@ -65,7 +65,7 @@
   "hobbys.hobby2.description": "Painting miniatures requires precision and patience. I love bringing models to life through colors and details. It’s a creative way to express my imagination and refine my craftsmanship.",
 
   "hobbys.hobby3.title": "Fitness & Sports",
-  "hobbys.hobby3.description": "Regular exercise is not just a physical challenge for me but also a mental balance. Whether it's strength training or endurance workouts, fitness helps me push my limits and develop discipline.",
+  "hobbys.hobby3.description": "Regular exercise is not just a physical challenge for me but also a mental balance.",
 
   "hobbys.hobby4.title": "Painting & Drawing",
   "hobbys.hobby4.description": "With a pencil or brush, I bring my creative ideas to paper. Painting and drawing allow me to express emotions visually and explore new artistic techniques.",
@@ -73,7 +73,19 @@
 
   "creativeTab.text1": "Dive into my interactive 3D world, where you can learn more about my creative projects and passions.",
   "creativeTab.text2": "Click on the elements on my desk to discover exciting content. Each object tells a unique story about my work, my interests, and my creative journey.",
-  "creativeTab.text3": "Have fun exploring, and don't hesitate to pay attention to every detail!"
+  "creativeTab.text3": "Have fun exploring, and don't hesitate to pay attention to every detail!",
+
+
+
+  "footer.projects": "Projects",
+  "footer.contact": "Contact",
+  "footer.phone": "Phone",
+  "footer.email": "E-mail",
+  "footer.copyright": "All rights reserved."
+
+
+
+
 
 
 

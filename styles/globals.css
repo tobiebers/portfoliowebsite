@@ -110,3 +110,8 @@ body {
   color: #121212;
   transform: scale(1.1);
 }
+.hobby-image {
+  height: 300px; /* Gleiche Höhe für alle Bilder */
+  object-fit: cover; /* Schneidet das Bild zurecht, um Verzerrungen zu vermeiden */
+  width: 100%; /* Stellt sicher, dass es immer die gesamte Breite ausnutzt */
+}

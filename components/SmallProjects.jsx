@@ -44,7 +44,7 @@ export default function SmallProjects() {
               {/* Vorderseite */}
               <div className="flip-card-front text-center">
                 <img
-                  src="/images/small-project2.jpg"
+                  src="/heizungsteuerung.png"
                   alt={t["smallProjects.project2.title"]}
                   className="card-image"
                 />

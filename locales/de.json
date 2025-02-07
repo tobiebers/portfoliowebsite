@@ -276,7 +276,7 @@
   "hobbys.hobby2.description": "Das Bemalen von Miniaturen erfordert Präzision und Geduld. Ich liebe es, Modelle durch Farben und Details zum Leben zu erwecken. Es ist eine kreative Möglichkeit, meiner Fantasie freien Lauf zu lassen und handwerkliche Fähigkeiten zu verbessern.",
 
   "hobbys.hobby3.title": "Fitness & Sport",
-  "hobbys.hobby3.description": "Regelmäßiges Training ist für mich nicht nur eine körperliche Herausforderung, sondern auch ein mentaler Ausgleich. Ob Krafttraining oder Ausdauer – Fitness hilft mir, meine Grenzen zu erweitern und Disziplin zu entwickeln.",
+  "hobbys.hobby3.description": "Regelmäßiges Training ist für mich nicht nur eine körperliche Herausforderung, sondern auch ein mentaler Ausgleich.",
 
   "hobbys.hobby4.title": "Malen & Zeichnen",
   "hobbys.hobby4.description": "Mit Stift und Pinsel bringe ich meine kreativen Ideen aufs Papier. Das Malen und Zeichnen erlaubt mir, Emotionen visuell auszudrücken und neue künstlerische Techniken zu erlernen.",
@@ -285,11 +285,15 @@
 
   "creativeTab.text1": "Tauchen Sie ein in meine interaktive 3D-Welt, in der Sie mehr über meine kreativen Projekte und Leidenschaften erfahren können.",
   "creativeTab.text2": "Klicken Sie auf die Elemente auf meinem Schreibtisch, um spannende Inhalte zu entdecken. Jeder Gegenstand erzählt eine einzigartige Geschichte über meine Arbeit, meine Interessen und meine kreative Reise.",
-  "creativeTab.text3": "Viel Spaß beim Erkunden, und zögern Sie nicht, auf jedes Detail zu achten!"
+  "creativeTab.text3": "Viel Spaß beim Erkunden, und zögern Sie nicht, auf jedes Detail zu achten!",
 
 
 
-
+  "footer.projects": "Projekte",
+  "footer.contact": "Kontakt",
+  "footer.phone": "Telefon",
+  "footer.email": "E-Mail",
+  "footer.copyright": "Alle Rechte vorbehalten."
 
 
 
