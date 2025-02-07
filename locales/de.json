@@ -293,11 +293,18 @@
   "footer.contact": "Kontakt",
   "footer.phone": "Telefon",
   "footer.email": "E-Mail",
-  "footer.copyright": "Alle Rechte vorbehalten."
+  "footer.copyright": "Alle Rechte vorbehalten.",
 
 
-
+  "loading": "Wird geladen...",
+  "spline.instruction1": "Tippen Sie mit dem Finger auf die markierten Objekte, um mehr zu erfahren.",
+  "spline.instruction2": "Wenn der Text nicht vollständig sichtbar ist, bewegen Sie die Szene mit zwei Fingern gleichzeitig."
 }
+
+
+
+
+
 
 
 

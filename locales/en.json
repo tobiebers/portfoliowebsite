@@ -81,7 +81,11 @@
   "footer.contact": "Contact",
   "footer.phone": "Phone",
   "footer.email": "E-mail",
-  "footer.copyright": "All rights reserved."
+  "footer.copyright": "All rights reserved.",
+
+  "loading": "Loading...",
+  "spline.instruction1": "Tap on the highlighted objects to learn more.",
+  "spline.instruction2": "If the text is not fully visible, move the scene with two fingers simultaneously."
 
 
 

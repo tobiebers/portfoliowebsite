@@ -1,8 +1,11 @@
 import React, { useEffect, useState } from "react";
+import { useLanguage } from "../context/LanguageContext"; // Sprachsteuerung importieren
 
 export default function SplineScene() {
   const [height, setHeight] = useState("70vh");
-  const [isLoading, setIsLoading] = useState(true); // Zustand für den Ladeindikator
+  const [isLoading, setIsLoading] = useState(true);
+  const [isMobile, setIsMobile] = useState(false); // Zustand für Mobile-Erkennung
+  const { t } = useLanguage(); // Übersetzung aus dem Kontext holen
 
   useEffect(() => {
     // Prüfen, ob das Script bereits eingebunden wurde
@@ -13,12 +16,15 @@ export default function SplineScene() {
       document.body.appendChild(script);
     }
 
-    // Dynamische Höhe basierend auf der Fensterbreite
+    // Dynamische Höhe und Mobile-Erkennung basierend auf Fenstergröße
     const handleResize = () => {
-      if (window.innerWidth < 576) {
-        setHeight("35vh");
-      } else if (window.innerWidth < 768) {
-        setHeight("50vh");
+      const screenWidth = window.innerWidth;
+      setIsMobile(screenWidth < 768); // Ist es ein Tablet/Handy?
+
+      if (screenWidth < 576) {
+        setHeight("45vh");
+      } else if (screenWidth < 768) {
+        setHeight("55vh");
       } else {
         setHeight("70vh");
       }
@@ -28,7 +34,7 @@ export default function SplineScene() {
     handleResize();
     window.addEventListener("resize", handleResize);
 
-    // Fallback: Nach 3 Sekunden den Ladezustand beenden, falls onLoad nicht ausgelöst wird
+    // Fallback: Nach 1,5 Sekunden den Ladezustand beenden, falls onLoad nicht ausgelöst wird
     const fallbackTimeout = setTimeout(() => {
       setIsLoading(false);
     }, 1500);
@@ -46,7 +52,7 @@ export default function SplineScene() {
   };
 
   return (
-    <div style={{ width: "100%", height, position: "relative" }}>
+    <div style={{ width: "100%", position: "relative" }}>
       {/* Ladeindikator */}
       {isLoading && (
         <div
@@ -62,23 +68,33 @@ export default function SplineScene() {
           }}
         >
           <div className="spinner-border text-light" role="status">
-            <span className="visually-hidden">Loading...</span>
+            <span className="visually-hidden">{t["loading"]}</span>
           </div>
-          <p>Wird geladen...</p>
+          <p>{t["loading"]}</p>
         </div>
       )}
 
       {/* Spline-Viewer */}
-      <spline-viewer
-        url="https://prod.spline.design/GxmyMOq7vN9Du5kU/scene.splinecode"
-        style={{
-          width: "100%",
-          height: "100%",
-          display: "block",
-          border: "none",
-        }}
-        onLoad={handleLoad} // Aufruf, wenn die Szene geladen ist
-      ></spline-viewer>
+      <div style={{ height }}>
+        <spline-viewer
+          url="https://prod.spline.design/GxmyMOq7vN9Du5kU/scene.splinecode"
+          style={{
+            width: "100%",
+            height: "100%",
+            display: "block",
+            border: "none",
+          }}
+          onLoad={handleLoad} // Aufruf, wenn die Szene geladen ist
+        ></spline-viewer>
+      </div>
+
+      {/* Anweisungen nur für Mobilgeräte */}
+      {isMobile && (
+        <div style={{ textAlign: "center", marginTop: "20px", color: "#fff" }}>
+          <p>{t["spline.instruction1"]}</p>
+          <p>{t["spline.instruction2"]}</p>
+        </div>
+      )}
     </div>
   );
 }
