@@ -16,9 +16,9 @@ export default function SplineScene() {
     // Dynamische Höhe basierend auf der Fensterbreite
     const handleResize = () => {
       if (window.innerWidth < 576) {
-        setHeight("50vh");
+        setHeight("35vh");
       } else if (window.innerWidth < 768) {
-        setHeight("60vh");
+        setHeight("50vh");
       } else {
         setHeight("70vh");
       }
