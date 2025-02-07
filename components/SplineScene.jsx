@@ -31,7 +31,7 @@ export default function SplineScene() {
     // Fallback: Nach 3 Sekunden den Ladezustand beenden, falls onLoad nicht ausgelöst wird
     const fallbackTimeout = setTimeout(() => {
       setIsLoading(false);
-    }, 2000);
+    }, 1500);
 
     // Event Listener beim Verlassen entfernen und Timeout bereinigen
     return () => {
